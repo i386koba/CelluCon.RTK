@@ -5,4 +5,4 @@
 * GPSモジュール（u-blox8）でRTKできるとのこと2017.6に http://www.aitendo.com/product/11460 買ってありますが、まだいじくれてないです。 
 * ついでに u-blox GPSモジュール [NEO6M5PSMA-U]　http://www.aitendo.com/product/15499 もRTK出来るじゃないかと購入してあります。
 * ラジコンに搭載したu-blox GPSデータをWebRTCで送信し、Web画面のPCにも u-blox GPSを取り付けて、PCでrtklibで計算すればよいのかと思います。
-* 上記課題として https://github.com/i386koba/CelluCon.RTK でやっていく予定です（2017.10時点）。
+
